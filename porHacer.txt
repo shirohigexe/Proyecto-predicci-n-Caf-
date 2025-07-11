@@ -1,0 +1,28 @@
+## Tareas Pendientes
+
+### Fase 1: Análisis exploratorio de datos
+- [x] Leer los tres archivos Excel.
+- [x] Cargar los datos en DataFrames de pandas.
+- [x] Inspeccionar las primeras filas de cada DataFrame.
+- [x] Obtener información sobre los tipos de datos y valores nulos.
+- [x] Identificar columnas relevantes para la predicción del Puntaje de Taza.
+
+### Fase 2: Definición de variables y preprocesamiento
+- [] Seleccionar las variables de entrada (X) y la variable objetivo (Y).
+- [] Manejar valores nulos (imputación o eliminación).
+- [] Codificar variables categóricas (si las hay).
+- [] Escalar características numéricas.
+- [] Dividir los datos en conjuntos de entrenamiento y prueba.
+
+### Fase 3: Entrenamiento de modelos de regresión
+- [] Entrenar al menos dos modelos de regresión (e.g., Regresión Lineal, Random Forest, Gradient Boosting).
+- [] Evaluar el rendimiento de los modelos utilizando métricas apropiadas (e.g., R2, MAE, MSE).
+
+### Fase 4: Análisis de explicabilidad
+- [] Aplicar un método de explicabilidad (LIME, SHAP, Feature Importance) a uno de los modelos entrenados.
+- [] Interpretar los resultados para entender qué variables influyen más en la predicción.
+
+### Fase 5: Reporte de resultados
+- [] Generar un informe con los hallazgos clave.
+- [] Incluir gráficos y tablas relevantes.
+- [] Presentar las conclusiones y recomendaciones.
