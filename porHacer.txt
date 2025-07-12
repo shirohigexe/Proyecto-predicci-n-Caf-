@@ -15,8 +15,8 @@
 - [x] Dividir los datos en conjuntos de entrenamiento y prueba.
 
 ### Fase 3: Entrenamiento de modelos de regresión
-- [] Entrenar al menos dos modelos de regresión (e.g., Regresión Lineal, Random Forest, Gradient Boosting).
-- [] Evaluar el rendimiento de los modelos utilizando métricas apropiadas (e.g., R2, MAE, MSE).
+- [x] Entrenar al menos dos modelos de regresión (e.g., Regresión Lineal, Random Forest, Gradient Boosting).
+- [x] Evaluar el rendimiento de los modelos utilizando métricas apropiadas (e.g., R2, MAE, MSE).
 
 ### Fase 4: Análisis de explicabilidad
 - [] Aplicar un método de explicabilidad (LIME, SHAP, Feature Importance) a uno de los modelos entrenados.
