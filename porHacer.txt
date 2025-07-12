@@ -8,11 +8,11 @@
 - [x] Identificar columnas relevantes para la predicción del Puntaje de Taza.
 
 ### Fase 2: Definición de variables y preprocesamiento
-- [] Seleccionar las variables de entrada (X) y la variable objetivo (Y).
-- [] Manejar valores nulos (imputación o eliminación).
-- [] Codificar variables categóricas (si las hay).
-- [] Escalar características numéricas.
-- [] Dividir los datos en conjuntos de entrenamiento y prueba.
+- [x] Seleccionar las variables de entrada (X) y la variable objetivo (Y).
+- [x] Manejar valores nulos (imputación o eliminación).
+- [-] Codificar variables categóricas (si las hay).
+- [x] Escalar características numéricas.
+- [x] Dividir los datos en conjuntos de entrenamiento y prueba.
 
 ### Fase 3: Entrenamiento de modelos de regresión
 - [] Entrenar al menos dos modelos de regresión (e.g., Regresión Lineal, Random Forest, Gradient Boosting).
